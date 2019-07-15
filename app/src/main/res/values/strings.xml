@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">BCI</string>
+    <string name="app_description">Interface diagnóstica</string>
+
+    <string name="dispositivos">Dispositivos</string>
+
+    <!-- Diagnóstico-->
+    <string name="diagnostico">Diagnóstico</string>
+    <string name="registro">Registro</string>
+    <string name="registrar">Registrar</string>
+    <string name="informacion_del_paciente">Información del paciente</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="fecha_de_nacimiento">Fecha de nacimiento</string>
+
+    <!-- FAQ -->
+    <string name="faq">FAQ</string>
+    <string name="preguntas_frecuentes">Preguntas frecuentes</string>
+    <string name="faq_titulo_1">1. ¿Cómo se vincula un dispositivo?</string>
+    <string name="faq_desc_1">Encender el Bluetooth del teléfono y asegurarse que la diadema esté encendida junto con el módulo Bluetooth. Seleccionar el botón de enlazar y seleccionar tu dispositivo.</string>
+    <string name="faq_titulo_2">2. ¿Cómo se guarda un registro?</string>
+    <string name="faq_desc_2">En la sección de transmisión en tiempo real, existe un menú desplegable el cuál tiene la opción de guardar. Se selecciona y listo.</string>
+    <string name="faq_titulo_3">3. ¿Cómo solicito mis registros?</string>
+    <string name="faq_desc_3">Se los pides por favor.</string>
+    <string name="faq_titulo_4">4. ¿Qué hago si la aplicación no responde?</string>
+    <string name="faq_desc_4">Cerrar la aplicación, esperar un momento y volver a abrirla. Si esto no funciona, desinstala y vuelve a instalarla.</string>
+    <string name="faq_titulo_5">5. Dispositivos compatibles</string>
+    <string name="faq_desc_5">Únicamente Android (Por ahora).</string>
+
+    <!-- Registros -->
+    <string name="registros">Registros</string>
+    <string name="descargar">Descargar</string>
+    <string name="enviar">Enviar</string>
+    <string name="reproducir">Reproducir</string>
+
+    <!-- Acerca de -->
+    <string name="acerca_de">Acerca de</string>
+    <string name="mision">Misión</string>
+    <string name="mision_desc">Lorem ipsum dolor sit amet consectetur adipiscing elit ad nibh dictumst, ullamcorper scelerisque ultricies cum ut hendrerit curae leo hac primis.</string>
+    <string name="vision">Visión</string>
+    <string name="vision_desc">Lorem ipsum dolor sit amet consectetur adipiscing elit ad nibh dictumst, ullamcorper scelerisque ultricies cum ut hendrerit curae leo hac primis.</string>
+    <string name="valores">Valores</string>
+    <string name="valores_desc">Lorem ipsum dolor sit amet consectetur adipiscing elit ad nibh dictumst, ullamcorper scelerisque ultricies cum ut hendrerit curae leo hac primis.</string>
+
+    <!-- Información -->
+    <string name="informacion">Información</string>
+    <string name="informacion_text">Para cualquier duda, comentario o sugerencia. Favor de comunicarse con nosotros por alguno de los siguientes medios.</string>
+    <string name="informacion_tel_1">(555) 549 5341</string>
+    <string name="informacion_tel_2">(988) 210 3720</string>
+    <string name="informacion_email">ecg_dolor@gmail.com</string>
+    <string name="informacion_web">www.classdolor.com.uk</string>
+</resources>

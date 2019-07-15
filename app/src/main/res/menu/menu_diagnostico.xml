@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.myapplication.DiagnosticoActivity">
+
+    <item
+        android:id="@+id/action_bluetooth"
+        android:icon="@drawable/ic_bluetooth_white_24dp"
+        android:title="Bluetooth"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_registrar"
+        android:icon="@drawable/ic_add_circle_outline_white_24dp"
+        android:title="Registrar"
+        app:showAsAction="always" />
+
+</menu>
